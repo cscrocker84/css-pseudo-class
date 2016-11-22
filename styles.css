@@ -9,6 +9,6 @@
   margin: 25px;
 }
 
-.n-child :nth-of-type(even) {
+.n-child:nth-of-type(even) {
   border: 1px solid blue;
 }
